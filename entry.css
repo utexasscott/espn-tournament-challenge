@@ -1,0 +1,6 @@
+.visible_win > div, .visible_win > div > div {
+	background-color: #ccebcc;
+}
+.visible_loss > div, .visible_loss > div > div {
+	background-color: #f5cccc;
+}
